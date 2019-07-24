@@ -2,8 +2,6 @@
 
 This is my first file.
 
-## Ipsum Below
+## Website Contents
 
-Blah blah blah lorem ipsum.
-
-Even more ipsim.
+One, two three.
