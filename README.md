@@ -4,4 +4,6 @@ This is my first file.
 
 ## Website Contents
 
-One, two three.
+Here are the files in the website:
+
+1. index.html
